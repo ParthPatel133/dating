@@ -1,0 +1,7 @@
+# Start Generation Here
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+.env
+# End Generation Here
