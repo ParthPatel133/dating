@@ -1,6 +1,5 @@
-# Express + MongoDB + Mongoose Demo
-
-This is a basic Express app using MongoDB and Mongoose.
+# Express + MongoDB
+A backend for a dating app experiment
 
 ## Prerequisites
 
